@@ -15,6 +15,18 @@ This project is a comprehensive React application that includes various advanced
 - **Tailwind CSS**: Used Tailwind CSS for styling the application, ensuring a highly responsive design.
 
 ## Installation
-1. Clone the repository:
-   ```bash
+Clone the Repository
+
+```bash
+git clone https://github.com/Rushikesh-Gavali/employee-dashboard
+```
+
+Go to the folder: 
+`cd employee_details_frontend`
+
+Install Dependencies: 
+`npm i`
+
+To Run the code: 
+`npm run dev`
    
