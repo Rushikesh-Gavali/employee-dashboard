@@ -75,7 +75,13 @@ Clone the Repository
 
 ```bash
 git clone https://github.com/Rushikesh-Gavali/employee-dashboard
+```
 
-cd backend
-npm i
-`
+Go to the folder
+`cd backend`
+
+Install Dependencies
+`npm i`
+
+To Run the code:
+`node app.js`
